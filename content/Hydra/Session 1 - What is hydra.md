@@ -7,8 +7,7 @@ Hydra is **written in JavaScript and compiles to WebGL under the hood**.
 ---
 ## Hydra - inspired by analog modular synthesis
 
-![Moog Modular Synth|400](https://www.sequencer.de/pix/moogmodule/moog_IIIc.jpg)
-![analog modular synthesiser](https://www.thomann.de/blog/wp-content/uploads/2019/09/IMG_8400-1-768x512.jpg)
+![Moog Modular Synth|500](https://www.sequencer.de/pix/moogmodule/moog_IIIc.jpg)
 
 In which chaining or patching a set of transformations together generates a visual result.
 
@@ -58,6 +57,10 @@ Click the Dice to make it tweak the numbers at random. It also arranges the code
 ## Play about with [hydra](https://hydra.ojack.xyz/) 
 
 <iframe src="https://hydra.ojack.xyz/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+---
+
+## Docs etc.
 
 For more information and instructions, see: [the interactive documentation](https://hydra.ojack.xyz/docs), [a list of hydra functions](https://hydra.ojack.xyz/api), [the community database of projects and tutorials](https://hydra.ojack.xyz/garden), [a gallery of user-generated sketches](https://twitter.com/hydra_patterns), and [the source code on github](https://github.com/hydra-synth/hydra),
 
