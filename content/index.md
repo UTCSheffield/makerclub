@@ -6,23 +6,27 @@ comments: "false"
 
 An experimental series of sessions to make digital art, music and games for display at school using programming.
 
-https://digital-art-club.netlify.app/
+https://makerclub.netlify.app/
 
-## [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
+# Schedule 2025-26
 
-## [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
 
-## [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+## Half Term 1 & 2 - [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
 
-- [[Session 1 - Introduction]]
-- [[Session 2 - Write Code]]
-
-## [Hydra](https://hydra.ojack.xyz/) based art
+## Half Term 3 - [Hydra](https://hydra.ojack.xyz/) based art
 - [[Session 1 - What is hydra]]
 - [[Session 2 - More code more chaos]]
 - [[Session 3 - Start your project]]
 - [[Session 4 - Do your project]]
 - [[Session 5 - Finishing up]]
+
+## Half Term 4 - [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
+
+## Half Term 5 - [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+
+- [[Session 1 - Introduction]]
+- [[Session 2 - Write Code]]
+
 
 ### The Aim
 To create web based art on the themes of [UTC Sheffield Olympic Legacy Park](https://www.utcsheffield.org.uk/olp/)   

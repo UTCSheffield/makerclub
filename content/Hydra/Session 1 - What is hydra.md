@@ -22,16 +22,16 @@ In which chaining or patching a set of transformations together generates a visu
 
 This is going to be easier if you can have a play without have to type the commands.
 
-Open this https://utc-olp-hydra-toy.glitch.me/ or if you have a camera https://utc-olp-hydra-toy-cam.glitch.me/
-
-1. Wave your mouse over the commands.
-2. Click [SELECT] when you like an effect
-3. Click Skip to go to the next set of choices.
-4. Notice the code at the bottom and copy it
+Open this https://utcsheffield.github.io/utc-olp-hydra-toy-cam/
+1. This will use either your camera or a video of stuff at school.
+2. Wave your mouse over the commands.
+3. Click [SELECT] when you like an effect
+4. Click Skip to go to the next set of choices.
+5. Notice the code at the bottom and copy it
 
 ---
 
-<iframe src="https://utc-olp-hydra-toy.glitch.me/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+<iframe src="https://utcsheffield.github.io/utc-olp-hydra-toy-cam/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
 ## Edit it
@@ -42,7 +42,7 @@ It probably won't work if you were using the camera so copy one of the lines bel
 
 ```
 s0.initCam() // If you were using the camera
-s0.initVideo("https://cdn.glitch.global/45027673-ed63-4151-9c24-b2679f7bea69/videoplayback.mp4?v=1736254251218") // For the video
+s0.initVideo("https://utcsheffield.github.io/xibo-screen-info/UTC%20OLP%20Promo.mp4") // For the video
 ```
 ---
 
