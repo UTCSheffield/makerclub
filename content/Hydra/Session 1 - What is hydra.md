@@ -73,4 +73,4 @@ For more information and instructions, see: [the interactive documentation](htt
 ---
 ## Next Time
 
-[[Session 2 - More code more chaos]]
+[[Session 2 - More code more fun]]

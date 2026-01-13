@@ -23,7 +23,7 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 ---
 ## [Hydra](https://hydra.ojack.xyz/) based art
 - [[Session 1 - What is hydra]]
-- [[Session 2 - More code more chaos]]
+- [[Session 2 - More code more fun]]
 - [[Session 3 - Start your project]]
 - [[Session 4 - Do your project]]
 - [[Session 5 - Finishing up]]
