@@ -1,18 +1,28 @@
-# Quartz v4
+# MakerClub
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “Learning by making, together.”
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+**MakerClub** is a collaborative space for creative coding, digital making, and sharing knowledge. Based in the MakerLab and and classrooms of  [UTC Sheffield Olmypic Legacy Park](https://www.utcsheffield.org.uk/olp/). This site hosts our guides, workshops, and resources for members and the wider community.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- Explore creative coding tutorials and project guides
+- Access workshop materials and session notes
+- Share and discover digital making resources
+- Connect with a community of makers
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+## Visit the Site
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+- 🌐 [https://makerclub.netlify.app/](https://makerclub.netlify.app/)
+
+---
+
+## Contributing
+
+We welcome contributions! If you have ideas, guides, or resources to share, please open a pull request or issue. See the documentation in the `docs/` folder for authoring and contribution guidelines.
+
+---
+
+## License
+
+Content and code are available under the [MIT License](LICENSE.txt).
