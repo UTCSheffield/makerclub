@@ -10,21 +10,20 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'UTCSheffield/digital-art-club',
+        repo: 'UTCSheffield/makerclub',
         // from data-repo-id
-        repoId: 'R_kgDONlr8Zg',
+        repoId: 'R_kgDOQy-BQQ',
         // from data-category
         category: 'Show and tell',
         // from data-category-id
-        categoryId: 'DIC_kwDONlr8Zs4CmPR0',
+        categoryId: 'DIC_kwDOQy-BQc4C1ltT',
         mapping:"pathname",
       }
     }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/UTCSheffield/makerclub"
     },
   }),
 }
