@@ -22,11 +22,22 @@ https://makerclub.netlify.app/
 
 ## Half Term 4 - [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
 
+Existing Workshops
+
+* Sean's slides
+* [Running a Sprig Workshop – Hack Club](https://workshops.hackclub.com/sprig/)
+* [Make a Sprig Game – Hack Club](https://workshops.hackclub.com/make_a_sprig_game/)
+* [Build your first Sprig game! – Hack Club](https://workshops.hackclub.com/sprig_first_game/)
+
 ## Half Term 5 - [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
 
 - [[Session 1 - Introduction]]
 - [[Session 2 - Write Code]]
 
+
+## Half Term 6
+
+Make your own ....... TBC
 
 ### The Aim
 To create web based art on the themes of [UTC Sheffield Olympic Legacy Park](https://www.utcsheffield.org.uk/olp/)   
