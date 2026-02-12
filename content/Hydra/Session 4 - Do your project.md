@@ -14,6 +14,11 @@ In Hydra, Click ![[Pasted image 20250205143829.png]]
 
 Do any of these look like fun?
 
+
+---
+
+![[Art Brief]]
+
 ---
 ## Gather what you will need
 
