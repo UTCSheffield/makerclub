@@ -63,4 +63,4 @@ https://hydra.ojack.xyz/?sketch_id=gSTZbAdC4UVzEhUV
 ---
 # Next Time
 
-[[Session 3 - Start your project]]
+[[Session 3 - Start your art]]

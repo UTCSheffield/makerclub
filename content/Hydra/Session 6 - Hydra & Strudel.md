@@ -64,4 +64,4 @@ https://hydra.ojack.xyz/docs/docs/reference/
 ---
 # Next Time
 
-[[Session 3 - Start your project]]
+[[Session 3 - Start your art]]
