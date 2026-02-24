@@ -10,7 +10,6 @@ https://makerclub.netlify.app/
 
 # Schedule 2025-26
 
-
 ## Half Term 1 & 2 - [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
 
 ![[MakerClub - Music.png]]
@@ -28,20 +27,22 @@ https://makerclub.netlify.app/
 
 ## Half Term 4 - [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
 
-
 ![[MakerClub - sprig.png]]
 Existing Workshops
 
 * Sean's slides
+	* [https://www.figma.com/slides/VAV9fzxUQgVsHSYls07qD4](https://www.figma.com/slides/VAV9fzxUQgVsHSYls07qD4 "https://www.figma.com/slides/VAV9fzxUQgVsHSYls07qD4")
+	* [https://www.figma.com/deck/VAV9fzxUQgVsHSYls07qD4](https://www.figma.com/deck/VAV9fzxUQgVsHSYls07qD4 "https://www.figma.com/deck/VAV9fzxUQgVsHSYls07qD4")
 * [Running a Sprig Workshop – Hack Club](https://workshops.hackclub.com/sprig/)
 * [Make a Sprig Game – Hack Club](https://workshops.hackclub.com/make_a_sprig_game/)
 * [Build your first Sprig game! – Hack Club](https://workshops.hackclub.com/sprig_first_game/)
 
 ## Half Term 5 - [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+
 ![[Digital Art Club 3D.png]]
+
 - [[Session 1 - Introduction]]
 - [[Session 2 - Write Code]]
-
 
 ## Half Term 6
 
