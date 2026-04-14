@@ -1,9 +1,9 @@
 ---
 comments: "false"
 ---
-# Digital Art Club - 3D Printed Art
+# MakerClub - 3D Printed Art
 
-https://digital-art-club.netlify.app/
+https://makerclub.netlify.app/
 
 An experimental series of sessions to make 3D printed sculpture for display at school using SolidPython & OpenSCAD.
 
@@ -35,6 +35,12 @@ d.save_as_scad()
 
 note:
 SolidPython is a tool for creating 3D CAD models using Python and OpenSCAD. Creating 3D CAD models using Python can be simple, fast, and powerful.
+
+---
+
+## Simple App for making Key Chains
+
+[Solid Design Live](https://soliddesign.streamlit.app/)  [UTCSheffield/solid_design: Simple Streamlit frontend for solidpython widget maker](https://github.com/UTCSheffield/solid_design)
 
 
 ---
