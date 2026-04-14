@@ -1,7 +1,9 @@
 ---
 comments: "false"
 ---
-# MakerClub - 3D Printed Art
+# SolidPython + OpenSCAD
+
+## MakerClub - 3D Printed Art
 
 https://makerclub.netlify.app/
 
@@ -30,7 +32,9 @@ s = sphere(10)
 d = c - s
 d.save_as_scad()
 ```
-Then open the .scad file in OpenScad
+Then run  it open the .scad file in OpenScad
+
+---
 
 ![[Pasted image 20250226141537.png|400]]
 
@@ -41,7 +45,8 @@ SolidPython is a tool for creating 3D CAD models using Python and OpenSCAD. Crea
 
 ## Simple App for making Key Chains
 
-[Solid Design Live](https://soliddesign.streamlit.app/)  [UTCSheffield/solid_design: Simple Streamlit frontend for solidpython widget maker](https://github.com/UTCSheffield/solid_design)
+* [Solid Design Live](https://soliddesign.streamlit.app/) 
+* [UTCSheffield/solid_design: Github](https://github.com/UTCSheffield/solid_design)
 
 
 ---
@@ -50,7 +55,7 @@ SolidPython is a tool for creating 3D CAD models using Python and OpenSCAD. Crea
 
 - Open Visual Studio Code
 - Create new file
-- Paste in the doe and run it
+- Paste in the code and run it
 
 ```python
 from solid2 import cube, sphere
