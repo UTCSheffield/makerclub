@@ -30,6 +30,7 @@ s = sphere(10)
 d = c - s
 d.save_as_scad()
 ```
+Then open the .scad file in OpenScad
 
 ![[Pasted image 20250226141537.png|400]]
 
