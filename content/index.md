@@ -8,7 +8,7 @@ An experimental series of sessions to make digital art, music and games for disp
 
 https://makerclub.netlify.app/
 
-# Schedule 2026-27
+# Provisional Schedule 2026-27
 
 ## Half Term 1 - [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
 
@@ -43,7 +43,9 @@ Existing Workshops
 * [Make a Sprig Game – Hack Club](https://workshops.hackclub.com/make_a_sprig_game/)
 * [Build your first Sprig game! – Hack Club](https://workshops.hackclub.com/sprig_first_game/)
 
-## Half Term 5 - [SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
+## Half Term 5 - Python of 3D Printing
+
+[SolidPython](https://github.com/jeff-dh/SolidPython/wiki)+ [OpenSCAD](https://openscad.org/)
 
 ![[Digital Art Club 3D.png]]
 
@@ -52,10 +54,10 @@ Existing Workshops
 
 ## Half Term 6
 
-Make your own ....... TBC
+????
 
 ### The Aim
-To create web based art on the themes of [UTC Sheffield Olympic Legacy Park](https://www.utcsheffield.org.uk/olp/)   
+To **Make** web based art, music and physical things on the themes of [UTC Sheffield Olympic Legacy Park](https://www.utcsheffield.org.uk/olp/)   
 - **Specialisms**
 	- **Computing**
 	- **Health Sciences & Social Care**
