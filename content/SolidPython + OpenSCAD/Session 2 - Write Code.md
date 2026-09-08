@@ -87,6 +87,18 @@ shape.save_as_scad()
 
 ---
 
+## Simple App for making Key Fobs and other stuff
+
+* [Solid Design Live](https://soliddesign.streamlit.app/) 
+* [UTCSheffield/solid_design: Github](https://github.com/UTCSheffield/solid_design)
+
+### Fork the repo 
+
+### Play with the prototype.py code to try different shapes / ideas
+
+
+---
+
 ## Basic Tutorials
 
 - Find OpenSCAD Designs on [Printables](https://www.printables.com/search/models?q=tag:openscad) and [Thingiverse](https://www.thingiverse.com/tag:openscad)
