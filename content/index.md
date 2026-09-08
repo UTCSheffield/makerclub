@@ -8,11 +8,17 @@ An experimental series of sessions to make digital art, music and games for disp
 
 https://makerclub.netlify.app/
 
-# Schedule 2025-26
+# Schedule 2026-27
 
-## Half Term 1 & 2 - [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
+## Half Term 1 - [Strudel](https://utcsheffield.github.io/makerclub-strudel/workshop/makerclub/) based music
 
 ![[MakerClub - Music.png]]
+
+
+## Half Term 2 - Make your own Instrument 
+
+
+
 ## Half Term 3 - [Hydra](https://hydra.ojack.xyz/) based art
 
 
