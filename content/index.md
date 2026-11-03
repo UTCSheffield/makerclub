@@ -30,7 +30,7 @@ https://makerclub.netlify.app/
 
 ## Half Term 3 - Make your own Instrument 
 
-Hardware device that is programmed with Strudel. 
+Building a hardware musical instrument that is programmed with Strudel based JavaScript. 
 
 
 ## Half Term 4 - [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
