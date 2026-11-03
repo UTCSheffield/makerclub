@@ -14,7 +14,7 @@ Either our Educational Specialisms or the Olympic Values
 
 <iframe src="https://utcsheffield.github.io/olp-hydra-art/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-The current art has a selection of Computing Photos that are used as random as sources for hydra animations. Those animations were written by students and are also picked at random. A quarter of the time those anuimations are converted into our school colours.
+The current art has a selection of Computing Photos that are used as random as sources for hydra animations. Those animations were written by students and are also picked at random. A quarter of the time those animations are converted into our school colours.
 
 <!--
 ---
