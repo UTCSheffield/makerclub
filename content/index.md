@@ -15,10 +15,6 @@ https://makerclub.netlify.app/
 ![[MakerClub - Music.png]]
 
 
-## Half Term 2 - Make your own Instrument 
-
-
-
 ## Half Term 3 - [Hydra](https://hydra.ojack.xyz/) based art
 
 
@@ -30,6 +26,12 @@ https://makerclub.netlify.app/
 - [[Session 3 - Start your art]]
 - [[Session 4 - Do your project]]
 - [[Session 5 - Finishing up]]
+
+
+## Half Term 3 - Make your own Instrument 
+
+Hardware device that is programmed with Strudel. 
+
 
 ## Half Term 4 - [sprig](https://utcsheffield.github.io/sprig-arcade/) based games
 
