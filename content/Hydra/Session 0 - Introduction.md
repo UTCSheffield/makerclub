@@ -6,7 +6,7 @@ comments: "false"
 
 An experimental series of sessions to make digital art for display at school using web technologies.
 
-Follow along on the website https://makerclub.netlify.app/
+Follow along on the website https://makerclub.netlify.app/hydra/
 
 ---
 ## The Aim
@@ -32,3 +32,4 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 - [[Session 3 - Start your art]]
 - [[Session 4 - Do your project]]
 - [[Session 5 - Finishing up]]
+- [[Session 6 - Hydra & Strudel]]
