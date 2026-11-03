@@ -7,15 +7,9 @@
 
 ```mermaid
 mindmap
-	root)Themes(
-		Specialisms 
-			Computing
-			Health Sciences and Social Care
-			Sport Science
-		Olympic Values
-			Excellence
-			Friendship
-			Respect
+	root)Health Specialism(
+		Biology
+			Cells 
 ```
 
 

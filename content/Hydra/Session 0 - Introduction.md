@@ -10,6 +10,10 @@ Follow along on the website https://makerclub.netlify.app/
 
 ---
 ## The Aim
+
+To create web based art on the themes of our Health Specialism (which will probably include biology). 
+
+<!--
 To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
 - **Specialisms**
 	- **Computing**
@@ -19,6 +23,7 @@ To create web based art on the themes of [UTC Sheffield OLP](https://www.utcshef
 	- **Excellence**
 	- **Friendship** ​
 	- **Respect**
+-->
 
 ---
 ## [Hydra](https://hydra.ojack.xyz/) based art

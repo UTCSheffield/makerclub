@@ -2,14 +2,6 @@
 
 <iframe src="https://hydra.ojack.xyz/?sketch_id=FsCtvsqqla5PeWnk" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
----
-
-## Wires Everywhere
-
-Play with Sams Hydra toy [Easel](https://easel.iimaginary.com/)
-
-<iframe src="https://easel.iimaginary.com/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
 
 ---
 
@@ -41,10 +33,7 @@ https://hydra.ojack.xyz/?sketch_id=SXiugyBHj200s3XG
 
 Go to the function reference https://hydra.ojack.xyz/docs/docs/reference/ and try playing with the examples in the Source and Geometry section. What parameters do they take? etc. Then play with them in your own hydra code.
 
-
 <iframe src="https://hydra.ojack.xyz/docs/docs/reference/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
-
 
 ---
 ## Feedback and other nonsense

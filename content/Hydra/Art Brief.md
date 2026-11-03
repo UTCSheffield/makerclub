@@ -1,11 +1,16 @@
 
 ## Our Aim
+
+To create web based art on the themes of our Health Specialism (which will probably include biology). 
+
+<!--
 To create web based art on the themes of [UTC Sheffield OLP](https://www.utcsheffield.org.uk/olp/)   
 Either our Educational Specialisms or the Olympic Values
+-->
 
 ---
 
-## [current art on screens](https://utcsheffield.github.io/olp-hydra-art/)
+## [Current art on screens](https://utcsheffield.github.io/olp-hydra-art/)
 
 <iframe src="https://utcsheffield.github.io/olp-hydra-art/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
