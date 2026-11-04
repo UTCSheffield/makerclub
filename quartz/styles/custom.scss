@@ -1,3 +1,15 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.page-title {
+	padding-bottom: 0.5rem;
+	border-bottom: 3px solid var(--tertiary);
+}
+
+.page-title a {
+	color: var(--dark);
+}
+
+.page-title a:hover {
+	color: var(--secondary);
+}

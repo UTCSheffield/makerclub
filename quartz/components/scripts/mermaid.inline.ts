@@ -158,11 +158,22 @@ document.addEventListener("nav", async () => {
   )
 
   const darkMode = document.documentElement.getAttribute("saved-theme") === "dark"
+  const mindmapPalette = darkMode
+    ? ["#0075bf", "#ee7d00", "#009bb4", "#164194", "#c66b00", "#007c8f", "#005ca9", "#a85a00", "#008094", "#006ba1", "#946000", "#003e48"]
+    : ["#e6f5fb", "#fff0dd", "#e3f2f0", "#e8eef8", "#fcebdc", "#dff1f4", "#e6f2fa", "#fff2e4", "#e5f3ef", "#eaf0f9", "#f8ecdf", "#e0f1f3"]
+  const mindmapThemeVariables = Object.fromEntries(
+    mindmapPalette.flatMap((color, index) => [
+      [`cScale${index}`, color],
+      [`cScaleLabel${index}`, darkMode ? "#ffffff" : "#183746"],
+    ]),
+  )
+
   mermaid.initialize({
     startOnLoad: false,
     securityLevel: "loose",
     theme: darkMode ? "dark" : "base",
     themeVariables: {
+      ...mindmapThemeVariables,
       fontFamily: computedStyleMap["--codeFont"],
       primaryColor: computedStyleMap["--light"],
       primaryTextColor: computedStyleMap["--darkgray"],
